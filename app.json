@@ -1,0 +1,10 @@
+{
+    "name": "Start on Heroku: Go",
+    "description": "go-host App",
+    "keywords": [
+        "hosting",
+        "go"
+    ],
+    "website": "https://github.com/muskankhedia/go-host",
+    "repository": "https://github.com/muskankhedia/go-host"
+}

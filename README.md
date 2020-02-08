@@ -21,3 +21,5 @@ Hosting a golang webapp using Heroku
   $ git push heroku master
   $ heroku open
  ```
+
+Reference: [https://devcenter.heroku.com/articles/getting-started-with-go#set-up](https://devcenter.heroku.com/articles/getting-started-with-go#set-up)
